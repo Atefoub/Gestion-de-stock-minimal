@@ -2,7 +2,7 @@ const products = [
   { name: "Stylo", stock: 10 },
   { name: "Livre", stock: 3 },
   { name: "Clavier", stock: 0 }
-];
+]
 
 
 function stockStatus(products) {
